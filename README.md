@@ -12,6 +12,14 @@
 </a>
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 - 🌱 I’m currently learning **→ ML & Data Science workflows → Core CS subjects (OS, CN, DBMS) → Research writing without relying on AI-generated text → Clean, scalable code architecture**
 
 - 💬 Ask me about **ML, DBMS, OS**
